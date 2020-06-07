@@ -1,0 +1,17 @@
+{
+  "name": "snakegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build":"rimraf dist && parcel build index.html --public-url ./"
+  },
+  "author": "zuopan",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^0.0.1-security"
+  }
+}

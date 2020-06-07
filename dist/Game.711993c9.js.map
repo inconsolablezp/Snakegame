@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/Game.ts"],"names":[],"mappings":";AAAA,aAAA,IAAA,EAAA,WAMA,OANA,aAAA","file":"Game.711993c9.js","sourceRoot":"..","sourcesContent":["class Game{\r\n    // let canvas:HTMLCanvasElement;\r\n    // initUi(){\r\n\r\n    //     this.canvas = document\r\n    // }\r\n}"]}
